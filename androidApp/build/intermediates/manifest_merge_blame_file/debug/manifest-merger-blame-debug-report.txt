@@ -1,0 +1,97 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.anikinkirill.kmm.android"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+8-->/Users/anikinkirill/AndroidStudioProjects/KmmPlaygroundForKmmTalkInYandex/androidApp/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->/Users/anikinkirill/AndroidStudioProjects/KmmPlaygroundForKmmTalkInYandex/androidApp/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/anikinkirill/AndroidStudioProjects/KmmPlaygroundForKmmTalkInYandex/androidApp/src/main/AndroidManifest.xml:4:5-66
+11-->/Users/anikinkirill/AndroidStudioProjects/KmmPlaygroundForKmmTalkInYandex/androidApp/src/main/AndroidManifest.xml:4:22-64
+12
+13    <application
+13-->/Users/anikinkirill/AndroidStudioProjects/KmmPlaygroundForKmmTalkInYandex/androidApp/src/main/AndroidManifest.xml:6:5-18:19
+14        android:allowBackup="false"
+14-->/Users/anikinkirill/AndroidStudioProjects/KmmPlaygroundForKmmTalkInYandex/androidApp/src/main/AndroidManifest.xml:7:9-36
+15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+15-->[androidx.core:core:1.8.0] /Users/anikinkirill/.gradle/caches/transforms-3/e1a30a5c551002942438d92ce2630454/transformed/core-1.8.0/AndroidManifest.xml:24:18-86
+16        android:debuggable="true"
+17        android:extractNativeLibs="false"
+18        android:supportsRtl="true"
+18-->/Users/anikinkirill/AndroidStudioProjects/KmmPlaygroundForKmmTalkInYandex/androidApp/src/main/AndroidManifest.xml:8:9-35
+19        android:testOnly="true"
+20        android:theme="@style/AppTheme" >
+20-->/Users/anikinkirill/AndroidStudioProjects/KmmPlaygroundForKmmTalkInYandex/androidApp/src/main/AndroidManifest.xml:9:9-40
+21        <activity
+21-->/Users/anikinkirill/AndroidStudioProjects/KmmPlaygroundForKmmTalkInYandex/androidApp/src/main/AndroidManifest.xml:10:9-17:20
+22            android:name="com.anikinkirill.kmm.android.MainActivity"
+22-->/Users/anikinkirill/AndroidStudioProjects/KmmPlaygroundForKmmTalkInYandex/androidApp/src/main/AndroidManifest.xml:11:13-41
+23            android:exported="true" >
+23-->/Users/anikinkirill/AndroidStudioProjects/KmmPlaygroundForKmmTalkInYandex/androidApp/src/main/AndroidManifest.xml:12:13-36
+24            <intent-filter>
+24-->/Users/anikinkirill/AndroidStudioProjects/KmmPlaygroundForKmmTalkInYandex/androidApp/src/main/AndroidManifest.xml:13:13-16:29
+25                <action android:name="android.intent.action.MAIN" />
+25-->/Users/anikinkirill/AndroidStudioProjects/KmmPlaygroundForKmmTalkInYandex/androidApp/src/main/AndroidManifest.xml:14:17-69
+25-->/Users/anikinkirill/AndroidStudioProjects/KmmPlaygroundForKmmTalkInYandex/androidApp/src/main/AndroidManifest.xml:14:25-66
+26
+27                <category android:name="android.intent.category.LAUNCHER" />
+27-->/Users/anikinkirill/AndroidStudioProjects/KmmPlaygroundForKmmTalkInYandex/androidApp/src/main/AndroidManifest.xml:15:17-77
+27-->/Users/anikinkirill/AndroidStudioProjects/KmmPlaygroundForKmmTalkInYandex/androidApp/src/main/AndroidManifest.xml:15:27-74
+28            </intent-filter>
+29        </activity>
+30        <activity
+30-->[androidx.compose.ui:ui-tooling:1.2.1] /Users/anikinkirill/.gradle/caches/transforms-3/b08d2d748e39d68970f73251f539b342/transformed/ui-tooling-1.2.1/AndroidManifest.xml:24:9-26:39
+31            android:name="androidx.compose.ui.tooling.PreviewActivity"
+31-->[androidx.compose.ui:ui-tooling:1.2.1] /Users/anikinkirill/.gradle/caches/transforms-3/b08d2d748e39d68970f73251f539b342/transformed/ui-tooling-1.2.1/AndroidManifest.xml:25:13-71
+32            android:exported="true" />
+32-->[androidx.compose.ui:ui-tooling:1.2.1] /Users/anikinkirill/.gradle/caches/transforms-3/b08d2d748e39d68970f73251f539b342/transformed/ui-tooling-1.2.1/AndroidManifest.xml:26:13-36
+33
+34        <provider
+34-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/anikinkirill/.gradle/caches/transforms-3/48eaa929c0ef51a470d20a10d1784636/transformed/profileinstaller-1.2.0/AndroidManifest.xml:25:9-33:20
+35            android:name="androidx.startup.InitializationProvider"
+35-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/anikinkirill/.gradle/caches/transforms-3/48eaa929c0ef51a470d20a10d1784636/transformed/profileinstaller-1.2.0/AndroidManifest.xml:26:13-67
+36            android:authorities="com.anikinkirill.kmm.android.androidx-startup"
+36-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/anikinkirill/.gradle/caches/transforms-3/48eaa929c0ef51a470d20a10d1784636/transformed/profileinstaller-1.2.0/AndroidManifest.xml:27:13-68
+37            android:exported="false" >
+37-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/anikinkirill/.gradle/caches/transforms-3/48eaa929c0ef51a470d20a10d1784636/transformed/profileinstaller-1.2.0/AndroidManifest.xml:28:13-37
+38            <meta-data
+38-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/anikinkirill/.gradle/caches/transforms-3/48eaa929c0ef51a470d20a10d1784636/transformed/profileinstaller-1.2.0/AndroidManifest.xml:30:13-32:52
+39                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+39-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/anikinkirill/.gradle/caches/transforms-3/48eaa929c0ef51a470d20a10d1784636/transformed/profileinstaller-1.2.0/AndroidManifest.xml:31:17-85
+40                android:value="androidx.startup" />
+40-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/anikinkirill/.gradle/caches/transforms-3/48eaa929c0ef51a470d20a10d1784636/transformed/profileinstaller-1.2.0/AndroidManifest.xml:32:17-49
+41        </provider>
+42
+43        <receiver
+43-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/anikinkirill/.gradle/caches/transforms-3/48eaa929c0ef51a470d20a10d1784636/transformed/profileinstaller-1.2.0/AndroidManifest.xml:35:9-47:20
+44            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+44-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/anikinkirill/.gradle/caches/transforms-3/48eaa929c0ef51a470d20a10d1784636/transformed/profileinstaller-1.2.0/AndroidManifest.xml:36:13-76
+45            android:directBootAware="false"
+45-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/anikinkirill/.gradle/caches/transforms-3/48eaa929c0ef51a470d20a10d1784636/transformed/profileinstaller-1.2.0/AndroidManifest.xml:37:13-44
+46            android:enabled="true"
+46-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/anikinkirill/.gradle/caches/transforms-3/48eaa929c0ef51a470d20a10d1784636/transformed/profileinstaller-1.2.0/AndroidManifest.xml:38:13-35
+47            android:exported="true"
+47-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/anikinkirill/.gradle/caches/transforms-3/48eaa929c0ef51a470d20a10d1784636/transformed/profileinstaller-1.2.0/AndroidManifest.xml:39:13-36
+48            android:permission="android.permission.DUMP" >
+48-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/anikinkirill/.gradle/caches/transforms-3/48eaa929c0ef51a470d20a10d1784636/transformed/profileinstaller-1.2.0/AndroidManifest.xml:40:13-57
+49            <intent-filter>
+49-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/anikinkirill/.gradle/caches/transforms-3/48eaa929c0ef51a470d20a10d1784636/transformed/profileinstaller-1.2.0/AndroidManifest.xml:41:13-43:29
+50                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+50-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/anikinkirill/.gradle/caches/transforms-3/48eaa929c0ef51a470d20a10d1784636/transformed/profileinstaller-1.2.0/AndroidManifest.xml:42:17-91
+50-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/anikinkirill/.gradle/caches/transforms-3/48eaa929c0ef51a470d20a10d1784636/transformed/profileinstaller-1.2.0/AndroidManifest.xml:42:25-88
+51            </intent-filter>
+52            <intent-filter>
+52-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/anikinkirill/.gradle/caches/transforms-3/48eaa929c0ef51a470d20a10d1784636/transformed/profileinstaller-1.2.0/AndroidManifest.xml:44:13-46:29
+53                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+53-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/anikinkirill/.gradle/caches/transforms-3/48eaa929c0ef51a470d20a10d1784636/transformed/profileinstaller-1.2.0/AndroidManifest.xml:45:17-85
+53-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/anikinkirill/.gradle/caches/transforms-3/48eaa929c0ef51a470d20a10d1784636/transformed/profileinstaller-1.2.0/AndroidManifest.xml:45:25-82
+54            </intent-filter>
+55        </receiver>
+56    </application>
+57
+58</manifest>

@@ -1,0 +1,245 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/anikinkirill/AndroidStudioProjects/KmmPlaygroundForKmmTalkInYandex/androidApp/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /Users/anikinkirill/AndroidStudioProjects/KmmPlaygroundForKmmTalkInYandex/androidApp/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /Users/anikinkirill/AndroidStudioProjects/KmmPlaygroundForKmmTalkInYandex/androidApp/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /Users/anikinkirill/AndroidStudioProjects/KmmPlaygroundForKmmTalkInYandex/androidApp/src/main/AndroidManifest.xml:2:1-19:12
+MERGED from [:shared] /Users/anikinkirill/AndroidStudioProjects/KmmPlaygroundForKmmTalkInYandex/shared/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.compose.ui:ui-tooling:1.2.1] /Users/anikinkirill/.gradle/caches/transforms-3/b08d2d748e39d68970f73251f539b342/transformed/ui-tooling-1.2.1/AndroidManifest.xml:17:1-29:12
+MERGED from [androidx.compose.material:material:1.2.1] /Users/anikinkirill/.gradle/caches/transforms-3/2514c76fcf9a5b63ce47adeff026c8a8/transformed/material-1.2.1/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.material:material-ripple:1.2.1] /Users/anikinkirill/.gradle/caches/transforms-3/2ea2f56040a73937682040229e5f4eda/transformed/material-ripple-1.2.1/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.foundation:foundation:1.2.1] /Users/anikinkirill/.gradle/caches/transforms-3/e3ed98e5f3245b018192409baf3af856/transformed/foundation-1.2.1/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.activity:activity-compose:1.5.1] /Users/anikinkirill/.gradle/caches/transforms-3/9555ceba3dfd18a3fb5e8d4e9d53ea52/transformed/activity-compose-1.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.animation:animation:1.1.1] /Users/anikinkirill/.gradle/caches/transforms-3/4b4b0d819440d015f6c29655963db9f9/transformed/animation-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-tooling-data:1.2.1] /Users/anikinkirill/.gradle/caches/transforms-3/c6361a5240943564ffbc747be796c339/transformed/ui-tooling-data-1.2.1/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.foundation:foundation-layout:1.2.1] /Users/anikinkirill/.gradle/caches/transforms-3/56c7733cb2e9bca3fb0b7a61e794d183/transformed/foundation-layout-1.2.1/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.material:material-icons-core:1.2.1] /Users/anikinkirill/.gradle/caches/transforms-3/bf905cbfbef07161c4f6f104e2354ceb/transformed/material-icons-core-1.2.1/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.animation:animation-core:1.1.1] /Users/anikinkirill/.gradle/caches/transforms-3/899bb88d0188483ba2b7ac519a6c6b19/transformed/animation-core-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui:1.2.1] /Users/anikinkirill/.gradle/caches/transforms-3/326295d71ab17f92da9075e54ec174ea/transformed/ui-1.2.1/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.2.1] /Users/anikinkirill/.gradle/caches/transforms-3/2fffa161e00586260e077f1f618a1b7d/transformed/ui-tooling-preview-1.2.1/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.ui:ui-text:1.2.1] /Users/anikinkirill/.gradle/caches/transforms-3/14aefedc924d7cce072f8d3722dab941/transformed/ui-text-1.2.1/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.runtime:runtime-saveable:1.2.1] /Users/anikinkirill/.gradle/caches/transforms-3/10ed05fa95ad50ac9edca932d4efb10c/transformed/runtime-saveable-1.2.1/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.ui:ui-graphics:1.2.1] /Users/anikinkirill/.gradle/caches/transforms-3/3912ec80ad5cb93e8a0f2434b2b2fb1e/transformed/ui-graphics-1.2.1/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.ui:ui-unit:1.2.1] /Users/anikinkirill/.gradle/caches/transforms-3/6b3601f0bf3e416494c9f613828f6c27/transformed/ui-unit-1.2.1/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.ui:ui-geometry:1.2.1] /Users/anikinkirill/.gradle/caches/transforms-3/a70fe80b93fe00efb0067f3e00e4154e/transformed/ui-geometry-1.2.1/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.runtime:runtime:1.2.1] /Users/anikinkirill/.gradle/caches/transforms-3/0a6c84634785728c31a1d6226d9d1cd1/transformed/runtime-1.2.1/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.activity:activity-ktx:1.5.1] /Users/anikinkirill/.gradle/caches/transforms-3/92f689f73c518c6d71c97e2aa1332a2d/transformed/activity-ktx-1.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] /Users/anikinkirill/.gradle/caches/transforms-3/14dffd41c0343ebc5e2c2c7ef205c8a8/transformed/lifecycle-runtime-ktx-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] /Users/anikinkirill/.gradle/caches/transforms-3/b181cccd7b7ea1bae99225efc864b5e4/transformed/lifecycle-viewmodel-ktx-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.5.1] /Users/anikinkirill/.gradle/caches/transforms-3/49617406eb0ad2d1a3cfe5e3a2d34a01/transformed/activity-1.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/anikinkirill/.gradle/caches/transforms-3/e85497fd95149da9bf6f47ef7245a25e/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/anikinkirill/.gradle/caches/transforms-3/b783a029eb3452ded7296a030b572946/transformed/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-util:1.2.1] /Users/anikinkirill/.gradle/caches/transforms-3/569885658fd94445d555128c8d89f275/transformed/ui-util-1.2.1/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/anikinkirill/.gradle/caches/transforms-3/15e7ffdcc175cf5d4a7c70bfcd0c1e70/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] /Users/anikinkirill/.gradle/caches/transforms-3/5fb19abd915b86545413b02a39f1a334/transformed/savedstate-ktx-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.5.0] /Users/anikinkirill/.gradle/caches/transforms-3/85fb727774562ecc7d2b7d329da221c9/transformed/core-ktx-1.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/anikinkirill/.gradle/caches/transforms-3/3987c08cd5fc449574b08023476db5d7/transformed/savedstate-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/anikinkirill/.gradle/caches/transforms-3/078f9d06715e72eb170aa040937b1eeb/transformed/autofill-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.8.0] /Users/anikinkirill/.gradle/caches/transforms-3/e1a30a5c551002942438d92ce2630454/transformed/core-1.8.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/anikinkirill/.gradle/caches/transforms-3/37893a30e51a545f299a1e20020ad965/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/anikinkirill/.gradle/caches/transforms-3/48eaa929c0ef51a470d20a10d1784636/transformed/profileinstaller-1.2.0/AndroidManifest.xml:17:1-50:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/anikinkirill/.gradle/caches/transforms-3/eb27921c99b5f5795b601fdb7a7ee50a/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/anikinkirill/.gradle/caches/transforms-3/540e176bb4e4e8047c7c8d4f6d286c62/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/anikinkirill/.gradle/caches/transforms-3/82339830a727d44257022a79d6be9b5d/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/anikinkirill/.gradle/caches/transforms-3/adc2898fdb9e454f00d300bab28d7250/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/anikinkirill/.gradle/caches/transforms-3/d6f270f9432834a4548713d1efa24dc0/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/anikinkirill/.gradle/caches/transforms-3/e6ad0407a5fcd1a7496d0044416f7a04/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/anikinkirill/AndroidStudioProjects/KmmPlaygroundForKmmTalkInYandex/androidApp/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /Users/anikinkirill/AndroidStudioProjects/KmmPlaygroundForKmmTalkInYandex/androidApp/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /Users/anikinkirill/AndroidStudioProjects/KmmPlaygroundForKmmTalkInYandex/androidApp/src/main/AndroidManifest.xml:2:1-19:12
+	package
+		INJECTED from /Users/anikinkirill/AndroidStudioProjects/KmmPlaygroundForKmmTalkInYandex/androidApp/src/main/AndroidManifest.xml
+		ADDED from /Users/anikinkirill/AndroidStudioProjects/KmmPlaygroundForKmmTalkInYandex/androidApp/src/main/AndroidManifest.xml:2:1-19:12
+		INJECTED from /Users/anikinkirill/AndroidStudioProjects/KmmPlaygroundForKmmTalkInYandex/androidApp/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/anikinkirill/AndroidStudioProjects/KmmPlaygroundForKmmTalkInYandex/androidApp/src/main/AndroidManifest.xml
+		ADDED from /Users/anikinkirill/AndroidStudioProjects/KmmPlaygroundForKmmTalkInYandex/androidApp/src/main/AndroidManifest.xml:2:1-19:12
+		INJECTED from /Users/anikinkirill/AndroidStudioProjects/KmmPlaygroundForKmmTalkInYandex/androidApp/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/anikinkirill/AndroidStudioProjects/KmmPlaygroundForKmmTalkInYandex/androidApp/src/main/AndroidManifest.xml
+		ADDED from /Users/anikinkirill/AndroidStudioProjects/KmmPlaygroundForKmmTalkInYandex/androidApp/src/main/AndroidManifest.xml:2:1-19:12
+		INJECTED from /Users/anikinkirill/AndroidStudioProjects/KmmPlaygroundForKmmTalkInYandex/androidApp/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/anikinkirill/AndroidStudioProjects/KmmPlaygroundForKmmTalkInYandex/androidApp/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/anikinkirill/AndroidStudioProjects/KmmPlaygroundForKmmTalkInYandex/androidApp/src/main/AndroidManifest.xml:4:5-66
+	android:name
+		ADDED from /Users/anikinkirill/AndroidStudioProjects/KmmPlaygroundForKmmTalkInYandex/androidApp/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/anikinkirill/AndroidStudioProjects/KmmPlaygroundForKmmTalkInYandex/androidApp/src/main/AndroidManifest.xml:6:5-18:19
+MERGED from [androidx.compose.ui:ui-tooling:1.2.1] /Users/anikinkirill/.gradle/caches/transforms-3/b08d2d748e39d68970f73251f539b342/transformed/ui-tooling-1.2.1/AndroidManifest.xml:23:5-27:19
+MERGED from [androidx.compose.ui:ui-tooling:1.2.1] /Users/anikinkirill/.gradle/caches/transforms-3/b08d2d748e39d68970f73251f539b342/transformed/ui-tooling-1.2.1/AndroidManifest.xml:23:5-27:19
+MERGED from [androidx.core:core:1.8.0] /Users/anikinkirill/.gradle/caches/transforms-3/e1a30a5c551002942438d92ce2630454/transformed/core-1.8.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.8.0] /Users/anikinkirill/.gradle/caches/transforms-3/e1a30a5c551002942438d92ce2630454/transformed/core-1.8.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/anikinkirill/.gradle/caches/transforms-3/37893a30e51a545f299a1e20020ad965/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/anikinkirill/.gradle/caches/transforms-3/37893a30e51a545f299a1e20020ad965/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/anikinkirill/.gradle/caches/transforms-3/48eaa929c0ef51a470d20a10d1784636/transformed/profileinstaller-1.2.0/AndroidManifest.xml:24:5-48:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/anikinkirill/.gradle/caches/transforms-3/48eaa929c0ef51a470d20a10d1784636/transformed/profileinstaller-1.2.0/AndroidManifest.xml:24:5-48:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/anikinkirill/.gradle/caches/transforms-3/adc2898fdb9e454f00d300bab28d7250/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/anikinkirill/.gradle/caches/transforms-3/adc2898fdb9e454f00d300bab28d7250/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.8.0] /Users/anikinkirill/.gradle/caches/transforms-3/e1a30a5c551002942438d92ce2630454/transformed/core-1.8.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/anikinkirill/AndroidStudioProjects/KmmPlaygroundForKmmTalkInYandex/androidApp/src/main/AndroidManifest.xml:8:9-35
+	android:allowBackup
+		ADDED from /Users/anikinkirill/AndroidStudioProjects/KmmPlaygroundForKmmTalkInYandex/androidApp/src/main/AndroidManifest.xml:7:9-36
+	android:theme
+		ADDED from /Users/anikinkirill/AndroidStudioProjects/KmmPlaygroundForKmmTalkInYandex/androidApp/src/main/AndroidManifest.xml:9:9-40
+activity#com.anikinkirill.kmm.android.MainActivity
+ADDED from /Users/anikinkirill/AndroidStudioProjects/KmmPlaygroundForKmmTalkInYandex/androidApp/src/main/AndroidManifest.xml:10:9-17:20
+	android:exported
+		ADDED from /Users/anikinkirill/AndroidStudioProjects/KmmPlaygroundForKmmTalkInYandex/androidApp/src/main/AndroidManifest.xml:12:13-36
+	android:name
+		ADDED from /Users/anikinkirill/AndroidStudioProjects/KmmPlaygroundForKmmTalkInYandex/androidApp/src/main/AndroidManifest.xml:11:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/anikinkirill/AndroidStudioProjects/KmmPlaygroundForKmmTalkInYandex/androidApp/src/main/AndroidManifest.xml:13:13-16:29
+action#android.intent.action.MAIN
+ADDED from /Users/anikinkirill/AndroidStudioProjects/KmmPlaygroundForKmmTalkInYandex/androidApp/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/anikinkirill/AndroidStudioProjects/KmmPlaygroundForKmmTalkInYandex/androidApp/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/anikinkirill/AndroidStudioProjects/KmmPlaygroundForKmmTalkInYandex/androidApp/src/main/AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from /Users/anikinkirill/AndroidStudioProjects/KmmPlaygroundForKmmTalkInYandex/androidApp/src/main/AndroidManifest.xml:15:27-74
+uses-sdk
+INJECTED from /Users/anikinkirill/AndroidStudioProjects/KmmPlaygroundForKmmTalkInYandex/androidApp/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/anikinkirill/AndroidStudioProjects/KmmPlaygroundForKmmTalkInYandex/androidApp/src/main/AndroidManifest.xml
+INJECTED from /Users/anikinkirill/AndroidStudioProjects/KmmPlaygroundForKmmTalkInYandex/androidApp/src/main/AndroidManifest.xml
+MERGED from [:shared] /Users/anikinkirill/AndroidStudioProjects/KmmPlaygroundForKmmTalkInYandex/shared/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:shared] /Users/anikinkirill/AndroidStudioProjects/KmmPlaygroundForKmmTalkInYandex/shared/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.compose.ui:ui-tooling:1.2.1] /Users/anikinkirill/.gradle/caches/transforms-3/b08d2d748e39d68970f73251f539b342/transformed/ui-tooling-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-tooling:1.2.1] /Users/anikinkirill/.gradle/caches/transforms-3/b08d2d748e39d68970f73251f539b342/transformed/ui-tooling-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.material:material:1.2.1] /Users/anikinkirill/.gradle/caches/transforms-3/2514c76fcf9a5b63ce47adeff026c8a8/transformed/material-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.material:material:1.2.1] /Users/anikinkirill/.gradle/caches/transforms-3/2514c76fcf9a5b63ce47adeff026c8a8/transformed/material-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.material:material-ripple:1.2.1] /Users/anikinkirill/.gradle/caches/transforms-3/2ea2f56040a73937682040229e5f4eda/transformed/material-ripple-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.material:material-ripple:1.2.1] /Users/anikinkirill/.gradle/caches/transforms-3/2ea2f56040a73937682040229e5f4eda/transformed/material-ripple-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.foundation:foundation:1.2.1] /Users/anikinkirill/.gradle/caches/transforms-3/e3ed98e5f3245b018192409baf3af856/transformed/foundation-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.foundation:foundation:1.2.1] /Users/anikinkirill/.gradle/caches/transforms-3/e3ed98e5f3245b018192409baf3af856/transformed/foundation-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.activity:activity-compose:1.5.1] /Users/anikinkirill/.gradle/caches/transforms-3/9555ceba3dfd18a3fb5e8d4e9d53ea52/transformed/activity-compose-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-compose:1.5.1] /Users/anikinkirill/.gradle/caches/transforms-3/9555ceba3dfd18a3fb5e8d4e9d53ea52/transformed/activity-compose-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation:1.1.1] /Users/anikinkirill/.gradle/caches/transforms-3/4b4b0d819440d015f6c29655963db9f9/transformed/animation-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation:1.1.1] /Users/anikinkirill/.gradle/caches/transforms-3/4b4b0d819440d015f6c29655963db9f9/transformed/animation-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-tooling-data:1.2.1] /Users/anikinkirill/.gradle/caches/transforms-3/c6361a5240943564ffbc747be796c339/transformed/ui-tooling-data-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-tooling-data:1.2.1] /Users/anikinkirill/.gradle/caches/transforms-3/c6361a5240943564ffbc747be796c339/transformed/ui-tooling-data-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.foundation:foundation-layout:1.2.1] /Users/anikinkirill/.gradle/caches/transforms-3/56c7733cb2e9bca3fb0b7a61e794d183/transformed/foundation-layout-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.foundation:foundation-layout:1.2.1] /Users/anikinkirill/.gradle/caches/transforms-3/56c7733cb2e9bca3fb0b7a61e794d183/transformed/foundation-layout-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.material:material-icons-core:1.2.1] /Users/anikinkirill/.gradle/caches/transforms-3/bf905cbfbef07161c4f6f104e2354ceb/transformed/material-icons-core-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.material:material-icons-core:1.2.1] /Users/anikinkirill/.gradle/caches/transforms-3/bf905cbfbef07161c4f6f104e2354ceb/transformed/material-icons-core-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.animation:animation-core:1.1.1] /Users/anikinkirill/.gradle/caches/transforms-3/899bb88d0188483ba2b7ac519a6c6b19/transformed/animation-core-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation-core:1.1.1] /Users/anikinkirill/.gradle/caches/transforms-3/899bb88d0188483ba2b7ac519a6c6b19/transformed/animation-core-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui:1.2.1] /Users/anikinkirill/.gradle/caches/transforms-3/326295d71ab17f92da9075e54ec174ea/transformed/ui-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui:1.2.1] /Users/anikinkirill/.gradle/caches/transforms-3/326295d71ab17f92da9075e54ec174ea/transformed/ui-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.2.1] /Users/anikinkirill/.gradle/caches/transforms-3/2fffa161e00586260e077f1f618a1b7d/transformed/ui-tooling-preview-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.2.1] /Users/anikinkirill/.gradle/caches/transforms-3/2fffa161e00586260e077f1f618a1b7d/transformed/ui-tooling-preview-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-text:1.2.1] /Users/anikinkirill/.gradle/caches/transforms-3/14aefedc924d7cce072f8d3722dab941/transformed/ui-text-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-text:1.2.1] /Users/anikinkirill/.gradle/caches/transforms-3/14aefedc924d7cce072f8d3722dab941/transformed/ui-text-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.runtime:runtime-saveable:1.2.1] /Users/anikinkirill/.gradle/caches/transforms-3/10ed05fa95ad50ac9edca932d4efb10c/transformed/runtime-saveable-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.runtime:runtime-saveable:1.2.1] /Users/anikinkirill/.gradle/caches/transforms-3/10ed05fa95ad50ac9edca932d4efb10c/transformed/runtime-saveable-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-graphics:1.2.1] /Users/anikinkirill/.gradle/caches/transforms-3/3912ec80ad5cb93e8a0f2434b2b2fb1e/transformed/ui-graphics-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-graphics:1.2.1] /Users/anikinkirill/.gradle/caches/transforms-3/3912ec80ad5cb93e8a0f2434b2b2fb1e/transformed/ui-graphics-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-unit:1.2.1] /Users/anikinkirill/.gradle/caches/transforms-3/6b3601f0bf3e416494c9f613828f6c27/transformed/ui-unit-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-unit:1.2.1] /Users/anikinkirill/.gradle/caches/transforms-3/6b3601f0bf3e416494c9f613828f6c27/transformed/ui-unit-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-geometry:1.2.1] /Users/anikinkirill/.gradle/caches/transforms-3/a70fe80b93fe00efb0067f3e00e4154e/transformed/ui-geometry-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-geometry:1.2.1] /Users/anikinkirill/.gradle/caches/transforms-3/a70fe80b93fe00efb0067f3e00e4154e/transformed/ui-geometry-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.runtime:runtime:1.2.1] /Users/anikinkirill/.gradle/caches/transforms-3/0a6c84634785728c31a1d6226d9d1cd1/transformed/runtime-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.runtime:runtime:1.2.1] /Users/anikinkirill/.gradle/caches/transforms-3/0a6c84634785728c31a1d6226d9d1cd1/transformed/runtime-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.activity:activity-ktx:1.5.1] /Users/anikinkirill/.gradle/caches/transforms-3/92f689f73c518c6d71c97e2aa1332a2d/transformed/activity-ktx-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.5.1] /Users/anikinkirill/.gradle/caches/transforms-3/92f689f73c518c6d71c97e2aa1332a2d/transformed/activity-ktx-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] /Users/anikinkirill/.gradle/caches/transforms-3/14dffd41c0343ebc5e2c2c7ef205c8a8/transformed/lifecycle-runtime-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] /Users/anikinkirill/.gradle/caches/transforms-3/14dffd41c0343ebc5e2c2c7ef205c8a8/transformed/lifecycle-runtime-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] /Users/anikinkirill/.gradle/caches/transforms-3/b181cccd7b7ea1bae99225efc864b5e4/transformed/lifecycle-viewmodel-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] /Users/anikinkirill/.gradle/caches/transforms-3/b181cccd7b7ea1bae99225efc864b5e4/transformed/lifecycle-viewmodel-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.5.1] /Users/anikinkirill/.gradle/caches/transforms-3/49617406eb0ad2d1a3cfe5e3a2d34a01/transformed/activity-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.5.1] /Users/anikinkirill/.gradle/caches/transforms-3/49617406eb0ad2d1a3cfe5e3a2d34a01/transformed/activity-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/anikinkirill/.gradle/caches/transforms-3/e85497fd95149da9bf6f47ef7245a25e/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/anikinkirill/.gradle/caches/transforms-3/e85497fd95149da9bf6f47ef7245a25e/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/anikinkirill/.gradle/caches/transforms-3/b783a029eb3452ded7296a030b572946/transformed/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/anikinkirill/.gradle/caches/transforms-3/b783a029eb3452ded7296a030b572946/transformed/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-util:1.2.1] /Users/anikinkirill/.gradle/caches/transforms-3/569885658fd94445d555128c8d89f275/transformed/ui-util-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-util:1.2.1] /Users/anikinkirill/.gradle/caches/transforms-3/569885658fd94445d555128c8d89f275/transformed/ui-util-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/anikinkirill/.gradle/caches/transforms-3/15e7ffdcc175cf5d4a7c70bfcd0c1e70/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/anikinkirill/.gradle/caches/transforms-3/15e7ffdcc175cf5d4a7c70bfcd0c1e70/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] /Users/anikinkirill/.gradle/caches/transforms-3/5fb19abd915b86545413b02a39f1a334/transformed/savedstate-ktx-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] /Users/anikinkirill/.gradle/caches/transforms-3/5fb19abd915b86545413b02a39f1a334/transformed/savedstate-ktx-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.5.0] /Users/anikinkirill/.gradle/caches/transforms-3/85fb727774562ecc7d2b7d329da221c9/transformed/core-ktx-1.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.5.0] /Users/anikinkirill/.gradle/caches/transforms-3/85fb727774562ecc7d2b7d329da221c9/transformed/core-ktx-1.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/anikinkirill/.gradle/caches/transforms-3/3987c08cd5fc449574b08023476db5d7/transformed/savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/anikinkirill/.gradle/caches/transforms-3/3987c08cd5fc449574b08023476db5d7/transformed/savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/anikinkirill/.gradle/caches/transforms-3/078f9d06715e72eb170aa040937b1eeb/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/anikinkirill/.gradle/caches/transforms-3/078f9d06715e72eb170aa040937b1eeb/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] /Users/anikinkirill/.gradle/caches/transforms-3/e1a30a5c551002942438d92ce2630454/transformed/core-1.8.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] /Users/anikinkirill/.gradle/caches/transforms-3/e1a30a5c551002942438d92ce2630454/transformed/core-1.8.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/anikinkirill/.gradle/caches/transforms-3/37893a30e51a545f299a1e20020ad965/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/anikinkirill/.gradle/caches/transforms-3/37893a30e51a545f299a1e20020ad965/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/anikinkirill/.gradle/caches/transforms-3/48eaa929c0ef51a470d20a10d1784636/transformed/profileinstaller-1.2.0/AndroidManifest.xml:21:5-22:38
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/anikinkirill/.gradle/caches/transforms-3/48eaa929c0ef51a470d20a10d1784636/transformed/profileinstaller-1.2.0/AndroidManifest.xml:21:5-22:38
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/anikinkirill/.gradle/caches/transforms-3/eb27921c99b5f5795b601fdb7a7ee50a/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/anikinkirill/.gradle/caches/transforms-3/eb27921c99b5f5795b601fdb7a7ee50a/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/anikinkirill/.gradle/caches/transforms-3/540e176bb4e4e8047c7c8d4f6d286c62/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/anikinkirill/.gradle/caches/transforms-3/540e176bb4e4e8047c7c8d4f6d286c62/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/anikinkirill/.gradle/caches/transforms-3/82339830a727d44257022a79d6be9b5d/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/anikinkirill/.gradle/caches/transforms-3/82339830a727d44257022a79d6be9b5d/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/anikinkirill/.gradle/caches/transforms-3/adc2898fdb9e454f00d300bab28d7250/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/anikinkirill/.gradle/caches/transforms-3/adc2898fdb9e454f00d300bab28d7250/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/anikinkirill/.gradle/caches/transforms-3/d6f270f9432834a4548713d1efa24dc0/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/anikinkirill/.gradle/caches/transforms-3/d6f270f9432834a4548713d1efa24dc0/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/anikinkirill/.gradle/caches/transforms-3/e6ad0407a5fcd1a7496d0044416f7a04/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/anikinkirill/.gradle/caches/transforms-3/e6ad0407a5fcd1a7496d0044416f7a04/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/anikinkirill/AndroidStudioProjects/KmmPlaygroundForKmmTalkInYandex/androidApp/src/main/AndroidManifest.xml
+INJECTED from /Users/anikinkirill/AndroidStudioProjects/KmmPlaygroundForKmmTalkInYandex/androidApp/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/anikinkirill/AndroidStudioProjects/KmmPlaygroundForKmmTalkInYandex/androidApp/src/main/AndroidManifest.xml
+		ADDED from /Users/anikinkirill/AndroidStudioProjects/KmmPlaygroundForKmmTalkInYandex/androidApp/src/main/AndroidManifest.xml
+		INJECTED from /Users/anikinkirill/AndroidStudioProjects/KmmPlaygroundForKmmTalkInYandex/androidApp/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/anikinkirill/AndroidStudioProjects/KmmPlaygroundForKmmTalkInYandex/androidApp/src/main/AndroidManifest.xml
+		ADDED from /Users/anikinkirill/AndroidStudioProjects/KmmPlaygroundForKmmTalkInYandex/androidApp/src/main/AndroidManifest.xml
+		INJECTED from /Users/anikinkirill/AndroidStudioProjects/KmmPlaygroundForKmmTalkInYandex/androidApp/src/main/AndroidManifest.xml
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling:1.2.1] /Users/anikinkirill/.gradle/caches/transforms-3/b08d2d748e39d68970f73251f539b342/transformed/ui-tooling-1.2.1/AndroidManifest.xml:24:9-26:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling:1.2.1] /Users/anikinkirill/.gradle/caches/transforms-3/b08d2d748e39d68970f73251f539b342/transformed/ui-tooling-1.2.1/AndroidManifest.xml:26:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling:1.2.1] /Users/anikinkirill/.gradle/caches/transforms-3/b08d2d748e39d68970f73251f539b342/transformed/ui-tooling-1.2.1/AndroidManifest.xml:25:13-71
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/anikinkirill/.gradle/caches/transforms-3/48eaa929c0ef51a470d20a10d1784636/transformed/profileinstaller-1.2.0/AndroidManifest.xml:25:9-33:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/anikinkirill/.gradle/caches/transforms-3/adc2898fdb9e454f00d300bab28d7250/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/anikinkirill/.gradle/caches/transforms-3/adc2898fdb9e454f00d300bab28d7250/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/anikinkirill/.gradle/caches/transforms-3/48eaa929c0ef51a470d20a10d1784636/transformed/profileinstaller-1.2.0/AndroidManifest.xml:29:13-31
+	android:authorities
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/anikinkirill/.gradle/caches/transforms-3/48eaa929c0ef51a470d20a10d1784636/transformed/profileinstaller-1.2.0/AndroidManifest.xml:27:13-68
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/anikinkirill/.gradle/caches/transforms-3/48eaa929c0ef51a470d20a10d1784636/transformed/profileinstaller-1.2.0/AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/anikinkirill/.gradle/caches/transforms-3/48eaa929c0ef51a470d20a10d1784636/transformed/profileinstaller-1.2.0/AndroidManifest.xml:26:13-67
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/anikinkirill/.gradle/caches/transforms-3/48eaa929c0ef51a470d20a10d1784636/transformed/profileinstaller-1.2.0/AndroidManifest.xml:30:13-32:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/anikinkirill/.gradle/caches/transforms-3/48eaa929c0ef51a470d20a10d1784636/transformed/profileinstaller-1.2.0/AndroidManifest.xml:32:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/anikinkirill/.gradle/caches/transforms-3/48eaa929c0ef51a470d20a10d1784636/transformed/profileinstaller-1.2.0/AndroidManifest.xml:31:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/anikinkirill/.gradle/caches/transforms-3/48eaa929c0ef51a470d20a10d1784636/transformed/profileinstaller-1.2.0/AndroidManifest.xml:35:9-47:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/anikinkirill/.gradle/caches/transforms-3/48eaa929c0ef51a470d20a10d1784636/transformed/profileinstaller-1.2.0/AndroidManifest.xml:38:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/anikinkirill/.gradle/caches/transforms-3/48eaa929c0ef51a470d20a10d1784636/transformed/profileinstaller-1.2.0/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/anikinkirill/.gradle/caches/transforms-3/48eaa929c0ef51a470d20a10d1784636/transformed/profileinstaller-1.2.0/AndroidManifest.xml:40:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/anikinkirill/.gradle/caches/transforms-3/48eaa929c0ef51a470d20a10d1784636/transformed/profileinstaller-1.2.0/AndroidManifest.xml:37:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/anikinkirill/.gradle/caches/transforms-3/48eaa929c0ef51a470d20a10d1784636/transformed/profileinstaller-1.2.0/AndroidManifest.xml:36:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/anikinkirill/.gradle/caches/transforms-3/48eaa929c0ef51a470d20a10d1784636/transformed/profileinstaller-1.2.0/AndroidManifest.xml:41:13-43:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/anikinkirill/.gradle/caches/transforms-3/48eaa929c0ef51a470d20a10d1784636/transformed/profileinstaller-1.2.0/AndroidManifest.xml:42:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/anikinkirill/.gradle/caches/transforms-3/48eaa929c0ef51a470d20a10d1784636/transformed/profileinstaller-1.2.0/AndroidManifest.xml:42:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/anikinkirill/.gradle/caches/transforms-3/48eaa929c0ef51a470d20a10d1784636/transformed/profileinstaller-1.2.0/AndroidManifest.xml:44:13-46:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/anikinkirill/.gradle/caches/transforms-3/48eaa929c0ef51a470d20a10d1784636/transformed/profileinstaller-1.2.0/AndroidManifest.xml:45:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/anikinkirill/.gradle/caches/transforms-3/48eaa929c0ef51a470d20a10d1784636/transformed/profileinstaller-1.2.0/AndroidManifest.xml:45:25-82

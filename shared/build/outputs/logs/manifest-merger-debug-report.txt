@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/anikinkirill/AndroidStudioProjects/KmmPlaygroundForKmmTalkInYandex/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest9309680926934794719.xml:2:13-3:49
+INJECTED from /Users/anikinkirill/AndroidStudioProjects/KmmPlaygroundForKmmTalkInYandex/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest9309680926934794719.xml:2:13-3:49
+INJECTED from /Users/anikinkirill/AndroidStudioProjects/KmmPlaygroundForKmmTalkInYandex/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest9309680926934794719.xml:2:13-3:49
+	package
+		ADDED from /Users/anikinkirill/AndroidStudioProjects/KmmPlaygroundForKmmTalkInYandex/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest9309680926934794719.xml:3:16-46
+		INJECTED from /Users/anikinkirill/AndroidStudioProjects/KmmPlaygroundForKmmTalkInYandex/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest9309680926934794719.xml
+		INJECTED from /Users/anikinkirill/AndroidStudioProjects/KmmPlaygroundForKmmTalkInYandex/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest9309680926934794719.xml
+	xmlns:android
+		ADDED from /Users/anikinkirill/AndroidStudioProjects/KmmPlaygroundForKmmTalkInYandex/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest9309680926934794719.xml:2:23-81
+uses-sdk
+INJECTED from /Users/anikinkirill/AndroidStudioProjects/KmmPlaygroundForKmmTalkInYandex/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest9309680926934794719.xml reason: use-sdk injection requested
+INJECTED from /Users/anikinkirill/AndroidStudioProjects/KmmPlaygroundForKmmTalkInYandex/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest9309680926934794719.xml
+INJECTED from /Users/anikinkirill/AndroidStudioProjects/KmmPlaygroundForKmmTalkInYandex/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest9309680926934794719.xml
+INJECTED from /Users/anikinkirill/AndroidStudioProjects/KmmPlaygroundForKmmTalkInYandex/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest9309680926934794719.xml
+INJECTED from /Users/anikinkirill/AndroidStudioProjects/KmmPlaygroundForKmmTalkInYandex/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest9309680926934794719.xml
+	android:targetSdkVersion
+		INJECTED from /Users/anikinkirill/AndroidStudioProjects/KmmPlaygroundForKmmTalkInYandex/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest9309680926934794719.xml
+		ADDED from /Users/anikinkirill/AndroidStudioProjects/KmmPlaygroundForKmmTalkInYandex/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest9309680926934794719.xml
+		INJECTED from /Users/anikinkirill/AndroidStudioProjects/KmmPlaygroundForKmmTalkInYandex/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest9309680926934794719.xml
+	android:minSdkVersion
+		INJECTED from /Users/anikinkirill/AndroidStudioProjects/KmmPlaygroundForKmmTalkInYandex/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest9309680926934794719.xml
+		ADDED from /Users/anikinkirill/AndroidStudioProjects/KmmPlaygroundForKmmTalkInYandex/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest9309680926934794719.xml
+		INJECTED from /Users/anikinkirill/AndroidStudioProjects/KmmPlaygroundForKmmTalkInYandex/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest9309680926934794719.xml
